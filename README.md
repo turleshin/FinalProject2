@@ -5,6 +5,8 @@
 - Community Profile (Avatar, Banner, Members) 
 - Edit Description and Avatar of community
 - Post (link only, photo, text only) 
+- Share any file
+- Download file from newfeed
 - Displaying posts from communities user is part of
 - Upvote, Downvote
 - Comment
